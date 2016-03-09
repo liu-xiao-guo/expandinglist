@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=expendinglist
+Exec=qmlscene $@ Main.qml
+Icon=expandinglist.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

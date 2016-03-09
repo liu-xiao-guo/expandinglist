@@ -1,0 +1,17 @@
+{
+    "name": "expandinglist.liu-xiao-guo",
+    "description": "description of expandinglist",
+    "architecture": "all",
+    "title": "expandinglist",
+    "hooks": {
+        "expendinglist": {
+            "apparmor": "expendinglist.apparmor",
+            "desktop":  "expendinglist.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
